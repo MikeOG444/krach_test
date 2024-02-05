@@ -1,52 +1,52 @@
 [<- back to the index](readme.md)
 # 14U McDavid KRACH Rankings
-Rankings generated on Wed Jan 24 07:16:51 2024.
+Rankings generated on Mon Feb  5 03:29:40 2024.
 
 Rank|KRACH|Subdivision|Team|GP|W|L|T|OTW|OTL|SoS|Exp Wins|Win Diff
 ---:|---:|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:
-1|623|Championship|[JR Black Bears 14U Gold](https://gamesheetstats.com/seasons/3659/teams/140633/schedule)|16|15|0|0|1|0|7|16.8|-0.0
-2|512|Championship|[STJ Light Blue](https://gamesheetstats.com/seasons/3659/teams/140639/schedule)|16|15|1|0|0|0|46|15.8|-0.0
-3|264|Championship|[York Devils Red](https://gamesheetstats.com/seasons/3659/teams/140644/schedule)|34|26|8|0|0|0|370|26.8|-0.0
-4|113|Championship|[MYHA 14U McDavid Blue](https://gamesheetstats.com/seasons/3659/teams/140636/schedule)|16|13|3|0|0|0|46|13.9|0.0
-5|40|Gold|[Haverford Hawks](https://gamesheetstats.com/seasons/3659/teams/140630/schedule)|31|21|10|0|0|0|93|21.9|0.0
-6|38|Gold|[Frederick Freeze 14U McDavid](https://gamesheetstats.com/seasons/3659/teams/140628/schedule)|14|9|2|3|0|0|44|11.4|0.0
-7|38|Gold|[14U TI North Stars Red](https://gamesheetstats.com/seasons/3659/teams/140626/schedule)|16|14|1|1|0|0|6|15.4|0.0
-8|35|Gold|[Lancaster Firebirds 14U Orange](https://gamesheetstats.com/seasons/3659/teams/140634/schedule)|33|20|11|2|0|0|97|21.9|0.0
-9|10|Silver|[Aviator Hockey Club 14U Minor](https://gamesheetstats.com/seasons/3659/teams/140627/schedule)|17|8|8|1|0|0|115|9.4|0.0
-10|5|Silver|[Lehigh Valley Phantoms Youth 14B](https://gamesheetstats.com/seasons/3659/teams/140635/schedule)|32|14|16|0|1|1|56|15.9|0.0
-11|4|Silver|[Wildcats 14U B White](https://gamesheetstats.com/seasons/3659/teams/140643/schedule)|31|13|14|2|1|1|40|15.9|0.0
-12|4|Silver|[Tri-City Eagles 14U Red](https://gamesheetstats.com/seasons/3659/teams/140640/schedule)|16|6|8|1|1|0|56|8.4|0.0
-13|3||[Grundy Senators](https://gamesheetstats.com/seasons/3659/teams/140629/schedule)|31|12|18|0|0|1|116|12.9|0.0
-14|3||[Jersey Colts Bantam Green](https://gamesheetstats.com/seasons/3659/teams/140632/schedule)|31|11|15|4|1|0|25|14.9|0.0
-15|3||[North Jersey Kings Grey](https://gamesheetstats.com/seasons/3659/teams/140637/schedule)|30|10|16|2|1|1|31|12.9|0.0
-16|2||[Wildcats 14U B Gray](https://gamesheetstats.com/seasons/3659/teams/140642/schedule)|33|10|22|1|0|0|39|11.4|0.0
-17|1||[VFC Bantam B Drost](https://gamesheetstats.com/seasons/3659/teams/140641/schedule)|32|4|26|0|0|2|127|4.9|0.0
-18|0||[Hollydell Hurricanes](https://gamesheetstats.com/seasons/3659/teams/140631/schedule)|32|5|27|0|0|0|22|5.9|0.0
-19|0||[Royals 14U Gray](https://gamesheetstats.com/seasons/3659/teams/140638/schedule)|30|0|30|0|0|0|71|0.9|0.0
+1|463|Championship|[JR Black Bears 14U Gold](https://gamesheetstats.com/seasons/3659/teams/140633/schedule)|16|15|0|0|1|0|5|16.8|-0.0
+2|459|Championship|[STJ Light Blue](https://gamesheetstats.com/seasons/3659/teams/140639/schedule)|16|15|1|0|0|0|44|15.8|-0.0
+3|272|Championship|[York Devils Red](https://gamesheetstats.com/seasons/3659/teams/140644/schedule)|36|28|8|0|0|0|357|28.8|-0.0
+4|93|Championship|[MYHA 14U McDavid Blue](https://gamesheetstats.com/seasons/3659/teams/140636/schedule)|16|13|3|0|0|0|44|13.9|0.0
+5|53|Gold|[Frederick Freeze 14U McDavid](https://gamesheetstats.com/seasons/3659/teams/140628/schedule)|16|11|2|3|0|0|41|13.4|0.0
+6|32|Gold|[Lancaster Firebirds 14U Orange](https://gamesheetstats.com/seasons/3659/teams/140634/schedule)|35|21|12|2|0|0|89|22.9|0.0
+7|28|Gold|[14U TI North Stars Red](https://gamesheetstats.com/seasons/3659/teams/140626/schedule)|16|14|1|1|0|0|5|15.4|0.0
+8|25|Gold|[Haverford Hawks](https://gamesheetstats.com/seasons/3659/teams/140630/schedule)|36|22|14|0|0|0|82|22.9|0.0
+9|8|Silver|[Aviator Hockey Club 14U Minor](https://gamesheetstats.com/seasons/3659/teams/140627/schedule)|18|8|9|1|0|0|93|9.4|0.0
+10|4|Silver|[Lehigh Valley Phantoms Youth 14B](https://gamesheetstats.com/seasons/3659/teams/140635/schedule)|35|15|17|0|2|1|47|17.9|0.0
+11|3|Silver|[Tri-City Eagles 14U Red](https://gamesheetstats.com/seasons/3659/teams/140640/schedule)|16|6|8|1|1|0|55|8.4|0.0
+12|3|Silver|[Wildcats 14U B White](https://gamesheetstats.com/seasons/3659/teams/140643/schedule)|35|13|16|3|2|1|35|17.4|0.0
+13|3||[Jersey Colts Bantam Green](https://gamesheetstats.com/seasons/3659/teams/140632/schedule)|35|12|17|4|1|1|23|15.9|0.0
+14|2||[North Jersey Kings Grey](https://gamesheetstats.com/seasons/3659/teams/140637/schedule)|34|11|18|3|1|1|27|14.4|0.0
+15|2||[Wildcats 14U B Gray](https://gamesheetstats.com/seasons/3659/teams/140642/schedule)|36|13|22|1|0|0|33|14.4|0.0
+16|2||[Grundy Senators](https://gamesheetstats.com/seasons/3659/teams/140629/schedule)|35|13|20|0|0|2|83|13.9|0.0
+17|0||[VFC Bantam B Drost](https://gamesheetstats.com/seasons/3659/teams/140641/schedule)|34|6|26|0|0|2|101|6.9|0.0
+18|0||[Hollydell Hurricanes](https://gamesheetstats.com/seasons/3659/teams/140631/schedule)|34|5|29|0|0|0|19|5.9|0.0
+19|0||[Royals 14U Gray](https://gamesheetstats.com/seasons/3659/teams/140638/schedule)|33|0|33|0|0|0|50|0.9|0.0
 
 ## Predictions
 Uses KRACH ratings to predict winning percentage of each team (row) against each opponent (column).
-||JR Black Bears 14U Gold|STJ Light Blue|York Devils Red|MYHA 14U McDavid Blue|Haverford Hawks|Frederick Freeze 14U McDavid|14U TI North Stars Red|Lancaster Firebirds 14U Orange|Aviator Hockey Club 14U Minor|Lehigh Valley Phantoms Youth 14B|Wildcats 14U B White|Tri-City Eagles 14U Red|Grundy Senators|Jersey Colts Bantam Green|North Jersey Kings Grey|Wildcats 14U B Gray|VFC Bantam B Drost|Hollydell Hurricanes|Royals 14U Gray
+||JR Black Bears 14U Gold|STJ Light Blue|York Devils Red|MYHA 14U McDavid Blue|Frederick Freeze 14U McDavid|Lancaster Firebirds 14U Orange|14U TI North Stars Red|Haverford Hawks|Aviator Hockey Club 14U Minor|Lehigh Valley Phantoms Youth 14B|Tri-City Eagles 14U Red|Wildcats 14U B White|Jersey Colts Bantam Green|North Jersey Kings Grey|Wildcats 14U B Gray|Grundy Senators|VFC Bantam B Drost|Hollydell Hurricanes|Royals 14U Gray
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: 
-|JR Black Bears 14U Gold|--| 55%| 70%| 85%| 94%| 94%| 94%| 95%| 98%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
-|STJ Light Blue| 45%|--| 66%| 82%| 93%| 93%| 93%| 94%| 98%| 99%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%|100%
-|York Devils Red| 30%| 34%|--| 70%| 87%| 87%| 87%| 88%| 96%| 98%| 99%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%
-|MYHA 14U McDavid Blue| 15%| 18%| 30%|--| 74%| 75%| 75%| 76%| 92%| 96%| 97%| 97%| 97%| 97%| 97%| 98%|100%|100%|100%
-|Haverford Hawks|  6%|  7%| 13%| 26%|--| 51%| 51%| 53%| 80%| 89%| 91%| 91%| 92%| 92%| 93%| 94%| 99%| 99%|100%
-|Frederick Freeze 14U McDavid|  6%|  7%| 13%| 25%| 49%|--| 50%| 52%| 80%| 89%| 91%| 91%| 92%| 92%| 93%| 94%| 99%| 99%|100%
-|14U TI North Stars Red|  6%|  7%| 13%| 25%| 49%| 50%|--| 52%| 79%| 89%| 90%| 91%| 92%| 92%| 93%| 94%| 99%| 99%|100%
-|Lancaster Firebirds 14U Orange|  5%|  6%| 12%| 24%| 47%| 48%| 48%|--| 78%| 88%| 90%| 90%| 91%| 91%| 92%| 93%| 99%| 99%|100%
-|Aviator Hockey Club 14U Minor|  2%|  2%|  4%|  8%| 20%| 20%| 21%| 22%|--| 67%| 71%| 71%| 74%| 74%| 77%| 80%| 95%| 97%|100%
-|Lehigh Valley Phantoms Youth 14B|  1%|  1%|  2%|  4%| 11%| 11%| 11%| 12%| 33%|--| 54%| 55%| 58%| 58%| 62%| 66%| 90%| 94%| 99%
-|Wildcats 14U B White|  1%|  1%|  1%|  3%|  9%|  9%| 10%| 10%| 29%| 46%|--| 50%| 54%| 54%| 58%| 62%| 88%| 93%| 99%
-|Tri-City Eagles 14U Red|  1%|  1%|  1%|  3%|  9%|  9%|  9%| 10%| 29%| 45%| 50%|--| 53%| 54%| 57%| 61%| 88%| 93%| 99%
-|Grundy Senators|  1%|  1%|  1%|  3%|  8%|  8%|  8%|  9%| 26%| 42%| 46%| 47%|--| 50%| 54%| 58%| 87%| 92%| 99%
-|Jersey Colts Bantam Green|  1%|  1%|  1%|  3%|  8%|  8%|  8%|  9%| 26%| 42%| 46%| 46%| 50%|--| 54%| 58%| 87%| 92%| 99%
-|North Jersey Kings Grey|  0%|  1%|  1%|  3%|  7%|  7%|  7%|  8%| 23%| 38%| 42%| 43%| 46%| 46%|--| 54%| 85%| 90%| 99%
-|Wildcats 14U B Gray|  0%|  0%|  1%|  2%|  6%|  6%|  6%|  7%| 20%| 34%| 38%| 39%| 42%| 42%| 46%|--| 83%| 89%| 98%
-|VFC Bantam B Drost|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  5%| 10%| 12%| 12%| 13%| 13%| 15%| 17%|--| 63%| 93%
-|Hollydell Hurricanes|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  3%|  6%|  7%|  7%|  8%|  8%| 10%| 11%| 37%|--| 89%
-|Royals 14U Gray|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  1%|  1%|  2%|  7%| 11%|--
+|JR Black Bears 14U Gold|--| 50%| 63%| 83%| 90%| 93%| 94%| 95%| 98%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
+|STJ Light Blue| 50%|--| 63%| 83%| 90%| 93%| 94%| 95%| 98%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%|100%|100%
+|York Devils Red| 37%| 37%|--| 75%| 84%| 89%| 91%| 92%| 97%| 98%| 99%| 99%| 99%| 99%| 99%| 99%|100%|100%|100%
+|MYHA 14U McDavid Blue| 17%| 17%| 25%|--| 64%| 74%| 77%| 79%| 92%| 96%| 97%| 97%| 97%| 97%| 98%| 98%|100%|100%|100%
+|Frederick Freeze 14U McDavid| 10%| 10%| 16%| 36%|--| 62%| 66%| 68%| 87%| 93%| 94%| 95%| 95%| 96%| 96%| 96%| 99%|100%|100%
+|Lancaster Firebirds 14U Orange|  7%|  7%| 11%| 26%| 38%|--| 54%| 56%| 81%| 88%| 91%| 92%| 93%| 93%| 94%| 94%| 99%| 99%|100%
+|14U TI North Stars Red|  6%|  6%|  9%| 23%| 34%| 46%|--| 52%| 78%| 87%| 90%| 90%| 91%| 92%| 93%| 93%| 98%| 99%|100%
+|Haverford Hawks|  5%|  5%|  8%| 21%| 32%| 44%| 48%|--| 77%| 85%| 89%| 89%| 91%| 91%| 92%| 93%| 98%| 99%|100%
+|Aviator Hockey Club 14U Minor|  2%|  2%|  3%|  8%| 13%| 19%| 22%| 23%|--| 64%| 71%| 72%| 75%| 76%| 77%| 80%| 94%| 98%|100%
+|Lehigh Valley Phantoms Youth 14B|  1%|  1%|  2%|  4%|  7%| 12%| 13%| 15%| 36%|--| 57%| 59%| 63%| 63%| 66%| 69%| 90%| 96%| 99%
+|Tri-City Eagles 14U Red|  1%|  1%|  1%|  3%|  6%|  9%| 10%| 11%| 29%| 43%|--| 52%| 55%| 56%| 59%| 62%| 87%| 94%| 99%
+|Wildcats 14U B White|  1%|  1%|  1%|  3%|  5%|  8%| 10%| 11%| 28%| 41%| 48%|--| 54%| 54%| 57%| 60%| 87%| 94%| 99%
+|Jersey Colts Bantam Green|  1%|  1%|  1%|  3%|  5%|  7%|  9%|  9%| 25%| 37%| 45%| 46%|--| 51%| 53%| 57%| 85%| 93%| 99%
+|North Jersey Kings Grey|  1%|  1%|  1%|  3%|  4%|  7%|  8%|  9%| 24%| 37%| 44%| 46%| 49%|--| 53%| 56%| 84%| 93%| 99%
+|Wildcats 14U B Gray|  0%|  0%|  1%|  2%|  4%|  6%|  7%|  8%| 23%| 34%| 41%| 43%| 47%| 47%|--| 53%| 83%| 92%| 99%
+|Grundy Senators|  0%|  0%|  1%|  2%|  4%|  6%|  7%|  7%| 20%| 31%| 38%| 40%| 43%| 44%| 47%|--| 81%| 91%| 99%
+|VFC Bantam B Drost|  0%|  0%|  0%|  0%|  1%|  1%|  2%|  2%|  6%| 10%| 13%| 13%| 15%| 16%| 17%| 19%|--| 71%| 95%
+|Hollydell Hurricanes|  0%|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  2%|  4%|  6%|  6%|  7%|  7%|  8%|  9%| 29%|--| 89%
+|Royals 14U Gray|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  0%|  1%|  1%|  1%|  1%|  1%|  1%|  1%|  5%| 11%|--
 
 ## Generation Details
 
@@ -58,7 +58,7 @@ Generated with command line:
 | Option | Value |
 | :----- | ----: |
 | Start Date | 2023-08-26 |
-| End Date | 2024-01-21 |
+| End Date | 2024-02-04 |
 | Max Iterations | 200 |
 | Max Ratings Diff | 1e-05 |
 | Overtime Win/Loss | 1.00 / 0.00 |
